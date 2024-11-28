@@ -1,0 +1,207 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://niamhahern.github.io/IIIFpractice/manifests/Animaliamanifestredo.json",
+  "@type" : "sc:Manifest",
+  "label" : "Wikimedia Commons Animalia",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A collection of animal photos sourced from Wikimedia Commons",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Wikimedia Commons",
+  "sequences" : [ {
+    "@id" : "http://ca91743c-7e35-4829-b467-4ce24b38c784",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9a9fddf6-1494-49a9-954c-9f9c612b3d62",
+      "@type" : "sc:Canvas",
+      "label" : "Ocicat",
+      "height" : 2048,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://80ace2e2-7234-4f80-ae56-ad97d203d3f7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FAdult_female_ocicat_sitting_Ljhlusko/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FAdult_female_ocicat_sitting_Ljhlusko",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2048,
+          "width" : 1536
+        },
+        "on" : "http://9a9fddf6-1494-49a9-954c-9f9c612b3d62"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6e1cff14-52a7-4938-be48-b1835acbbae0",
+      "@type" : "sc:Canvas",
+      "label" : "Cervus Nippon",
+      "height" : 4256,
+      "width" : 2832,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ec81f896-a690-4ab5-85c3-d1ac5bf429f0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FCervus_nippon/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FCervus_nippon",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4256,
+          "width" : 2832
+        },
+        "on" : "http://6e1cff14-52a7-4938-be48-b1835acbbae0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f3d8aaeb-43e3-4620-bfe3-0023a490febb",
+      "@type" : "sc:Canvas",
+      "label" : "Eotragus",
+      "height" : 3000,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ab5dc7f2-0aaa-40a5-980b-355c1657e558",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FEotragus_CAZ/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FEotragus_CAZ",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3000,
+          "width" : 4000
+        },
+        "on" : "http://f3d8aaeb-43e3-4620-bfe3-0023a490febb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0031b7bb-beea-4ba6-bce8-bc7b0df1bfed",
+      "@type" : "sc:Canvas",
+      "label" : "Dawson Caribou",
+      "height" : 360,
+      "width" : 480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://68e3659e-d42b-48a0-a926-252fb71c318e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FDawsons_Caribou_at_Royal_BC_Museum/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FDawsons_Caribou_at_Royal_BC_Museum",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 360,
+          "width" : 480
+        },
+        "on" : "http://0031b7bb-beea-4ba6-bce8-bc7b0df1bfed"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1e3c750f-d357-49a9-ac25-094eba48e36a",
+      "@type" : "sc:Canvas",
+      "label" : "Squid fish",
+      "height" : 1281,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b2d6bbc8-267c-4e76-8b8d-43c4e51c31d5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FSquid-fish/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FSquid-fish",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1281,
+          "width" : 1920
+        },
+        "on" : "http://1e3c750f-d357-49a9-ac25-094eba48e36a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7bad4c75-26ca-45a8-8b21-23267c58f165",
+      "@type" : "sc:Canvas",
+      "label" : "Cassioea",
+      "height" : 1567,
+      "width" : 2090,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2fce25e4-3c40-4526-8808-128e9ee328d5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FCassiopea_xamachana_larva/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.gdmrdigital.com/image/iiif/2/training%2Fniamhahern%2FIIIFPractice-NiamhAhern%2FCassiopea_xamachana_larva",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1567,
+          "width" : 2090
+        },
+        "on" : "http://7bad4c75-26ca-45a8-8b21-23267c58f165"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://6e1cff14-52a7-4938-be48-b1835acbbae0"
+  },
+  "viewingHint" : "Paged"
+}
