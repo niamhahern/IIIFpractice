@@ -1,0 +1,13 @@
+{
+  "id" : "https://niamhahern.github.io/IIIFpractice/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in niamhahern/IIIFpractice project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://niamhahern.github.io/IIIFpractice/manifests/Animaliamanifestredo.json",
+    "label" : "Wikimedia Commons Animalia"
+  } ]
+}
